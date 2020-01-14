@@ -25,9 +25,9 @@ GymTracker is an Android application for tracking your gym exercise activities, 
 
 ## Installation
 
-GymTracker is upcoming in Google Play Store in 2 versions:
-* Free
-* Full
+GymTracker is available in Google Play Store in 2 versions:
+* [Free](https://play.google.com/store/apps/details?id=tfager.gymtracker2.free)
+* [Full](https://play.google.com/store/apps/details?id=tfager.gymtracker2.full)
 
 You can also build and install it yourself; you're probably best off using
  [Android Studio](https://developer.android.com/studio).
