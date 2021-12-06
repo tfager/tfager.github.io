@@ -20,7 +20,13 @@ My 3D models and printouts in [Thingiverse](https://www.thingiverse.com/tfager/d
 
 ## Bird photography
 
-My mostly bird-related photos in [Google Photos](https://goo.gl/photos/RPX1FNQRh2tnbEUq7)
+[Bird photos 2021](https://tfager.ignorelist.com/s/DYzQHZ4e2m8E6Mk)
+
+[Bird photos 2020](https://tfager.ignorelist.com/s/9PdFb2cSqXBgkDy)
+
+[Bird photos 2019](https://tfager.ignorelist.com/s/TwdjqaDC3EFgxen)
+
+[Older photos](https://goo.gl/photos/RPX1FNQRh2tnbEUq7)
 
 ## Find me in..
 
