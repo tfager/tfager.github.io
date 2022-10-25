@@ -1,6 +1,6 @@
 # GymTracker
 
-GymTracker is an Android application for tracking your gym exercise activities, and recording them even without unlocking your phone.
+GymTracker is an Android and Wear OS application for tracking your gym exercise activities, and recording them even without unlocking your phone.
 
 ## Features
 
@@ -9,8 +9,13 @@ GymTracker is an Android application for tracking your gym exercise activities, 
   during exercise, without opening screen lock
 * Export and import the programs as JSON files
 * Submit exercise data to [Google Fit](https://www.google.com/fit/)
+ * Sadly this is only available to named test users due to Google's policy to consider fitness data to be of restricted scope
 * Export and import sessions as JSON files
 * Edit / correct information in the sessions (Pro feature)
+
+Wear OS Watch App:
+* Record reps and resistances for a workout initiated from phone
+* Pause timer: click the bell icon to start a pause of predefined duration. The watch will buzz after it.
 
 ## Screenshots
 
@@ -22,6 +27,13 @@ GymTracker is an Android application for tracking your gym exercise activities, 
 [![History](https://tfager.github.io/gymtracker/screenshots/small/Screenshot_history.png)](https://tfager.github.io/gymtracker/screenshots/Screenshot_history.png)
 [![Google Fit](https://tfager.github.io/gymtracker/screenshots/small/Screenshot_google_fit.png)](https://tfager.github.io/gymtracker/screenshots/Screenshot_google_fit.png)
 [![Full Version Ad](https://tfager.github.io/gymtracker/screenshots/small/Screenshot_pro_advertisement.png)](https://tfager.github.io/gymtracker/screenshots/Screenshot_pro_advertisement.png)
+
+[![Wear OS Main Menu](https://tfager.github.io/gymtracker/screenshots/wear/wear_main_menu.png)](https://tfager.github.io/gymtracker/screenshots/wear/wear_main_menu.png)
+[![Wear OS Session](https://tfager.github.io/gymtracker/screenshots/wear/wear_session.png)](https://tfager.github.io/gymtracker/screenshots/wear/wear_session.png)
+
+## Release Notes
+
+See [release notes](/gymtracker/release_notes.html).
 
 ## Installation
 
@@ -61,11 +73,11 @@ Here you can see history of your exercise sessions. You can:
 * Delete session
 * Export the session to a JSON file. You'll be presented with save
   dialog, which can use any storage or cloud service you have available.
-  
+
 And from top menu:
 * Import a session from a JSON file available on your mobile device, or
   any cloud storage you might have.
-  
+ 
 ### Editing Sessions and Programs
 
 When you click Edit in program list, or in session list (Full version), you'll see the program or
@@ -131,9 +143,6 @@ When your exercise is done, you can unlock your phone and click the dumbbell ico
 There you can click "Finish" to note down the finish time, and Submit to Google Fit if you wish. The session
 will also be visible in History (actually right after the first change / marking done has happened), so you
 can edit and export it from there.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

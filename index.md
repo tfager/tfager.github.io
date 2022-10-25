@@ -20,6 +20,8 @@ My 3D models and printouts in [Thingiverse](https://www.thingiverse.com/tfager/d
 
 ## Bird photography
 
+[Bird photos 2022](https://tfager.ignorelist.com/s/rA3r62pSB6GkDsd)
+
 [Bird photos 2021](https://tfager.ignorelist.com/s/DYzQHZ4e2m8E6Mk)
 
 [Bird photos 2020](https://tfager.ignorelist.com/s/9PdFb2cSqXBgkDy)
