@@ -9,7 +9,7 @@ GymTracker is an Android and Wear OS application for tracking your gym exercise 
   during exercise, without opening screen lock
 * Export and import the programs as JSON files
 * Submit exercise data to [Google Fit](https://www.google.com/fit/)
- * Sadly this is only available to named test users due to Google's policy to consider fitness data to be of restricted scope
+  * Sadly this is only available to named test users due to Google's policy to consider fitness data to be of restricted scope
 * Export and import sessions as JSON files
 * Edit / correct information in the sessions (Pro feature)
 
@@ -28,6 +28,8 @@ Wear OS Watch App:
 [![Google Fit](https://tfager.github.io/gymtracker/screenshots/small/Screenshot_google_fit.png)](https://tfager.github.io/gymtracker/screenshots/Screenshot_google_fit.png)
 [![Full Version Ad](https://tfager.github.io/gymtracker/screenshots/small/Screenshot_pro_advertisement.png)](https://tfager.github.io/gymtracker/screenshots/Screenshot_pro_advertisement.png)
 
+## Watch app (Google Wear OS) Screenshots
+
 [![Wear OS Main Menu](https://tfager.github.io/gymtracker/screenshots/wear/wear_main_menu.png)](https://tfager.github.io/gymtracker/screenshots/wear/wear_main_menu.png)
 [![Wear OS Session](https://tfager.github.io/gymtracker/screenshots/wear/wear_session.png)](https://tfager.github.io/gymtracker/screenshots/wear/wear_session.png)
 
@@ -40,9 +42,6 @@ See [release notes](/gymtracker/release_notes.html).
 GymTracker is available in Google Play Store in 2 versions:
 * [Free](https://play.google.com/store/apps/details?id=tfager.gymtracker2.free)
 * [Full](https://play.google.com/store/apps/details?id=tfager.gymtracker2.full)
-
-You can also build and install it yourself; you're probably best off using
- [Android Studio](https://developer.android.com/studio).
 
 ## Usage
 
@@ -144,5 +143,3 @@ There you can click "Finish" to note down the finish time, and Submit to Google 
 will also be visible in History (actually right after the first change / marking done has happened), so you
 can edit and export it from there.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
